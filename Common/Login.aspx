@@ -260,7 +260,7 @@
 					<div class="modal-content">
 						<div class="modal-header"  style="text-align:center;background-color:#428bca;color:white">
                              
-							<h4 class="modal-title"  id="ModalTitle">LOGIN</h4>
+							<h4 class="modal-title"  id="ModalTitle">LOGIN PAGE</h4>
 								</div>
                         <div class="modal-body">
 								<label for="txtemail">EMAIL</label>																
