@@ -122,7 +122,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
      <form  runat="server">
          <div class="tips w3agile" id="content" style="margin:0 auto">
 
-              <h2 class="text-success text-center">REGISTRATION FORM</h2>
+              <h2 class="text-success text-center">PATIENT REGISTRATION FORM</h2>
               <div class="container" style=" border:double; padding:30px">
    
    
